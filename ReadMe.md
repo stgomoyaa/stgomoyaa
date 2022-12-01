@@ -1,6 +1,6 @@
-👋🏻Hi, my name is Santiago, i love mobile development... and i know many other languages!
+👋🏻Hi, my name is Santiago, i love mobile development...!
 
-🚀I know...
+🚀Also i know...
 
 📌Java - ⭐⭐⭐⭐
 
