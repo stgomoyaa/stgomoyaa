@@ -1,8 +1,8 @@
-👋🏻Hola, mi nombre es Santiago..!
+👋🏻Hi, my name is Santiago..!
 
-🔥¡Me apasiona la programación móvil, y poseo conocimientos de varios lenguajes, sientete libre de revisar todo lo que he hecho en mi github!
+🔥¡I love mobile development, and i know many other languages!
 
-🚀¿Qué conocimientos poseo?
+🚀I know...
 
 👉🏻Java - ⭐⭐⭐⭐
 👉🏻HTML - ⭐⭐⭐
@@ -10,4 +10,4 @@
 👉🏻Python - ⭐⭐
 👉🏻CSS - ⭐⭐
 
-🗽¡Estoy atento ante cualquier duda, y puedes utilizar todo el código que esté subido acá!
+🗽¡Feel free to clone all my projects!
