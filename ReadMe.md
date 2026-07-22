@@ -23,11 +23,24 @@ Valorant, Apex, Overwatch, CoD and Quake; camo and progression systems.
 Backed by a Vitest suite covering bot AI, physics coherence, hitboxes and
 navigation grids.
 
+**[decomp-studio](https://github.com/stgomoyaa/decomp-studio)** -
+Cross-platform toolkit for building Pokemon GBA hackroms on pret
+decompilation projects. A pnpm + TypeScript (strict) monorepo with one
+shared core engine driving a desktop UI, a CLI, and a planned MCP server,
+so a person, CI, or an AI agent all edit through the same validated
+services. Pre-alpha.
+
 **[wikirace](https://github.com/stgomoyaa/wikirace)** - Full-stack WikiRace
 game: race between Wikipedia pages using only internal links. Next.js,
 TypeScript, Prisma and Postgres, with a server-authoritative race timer,
 anti-cheat path validation, and explicit XSS/SSRF/DoS hardening on the
 Wikipedia proxy.
+
+**[soundreel](https://github.com/stgomoyaa/soundreel)** - Python pipeline
+that automates a faceless ambient/lofi music YouTube channel end to end:
+audio processing, long-form video assembly, thumbnail and SEO-title
+generation, and scheduled uploads via the YouTube Data API, with Postgres
+for state and Telegram notifications.
 
 ## Stack
 
