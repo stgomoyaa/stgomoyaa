@@ -42,6 +42,12 @@ audio processing, long-form video assembly, thumbnail and SEO-title
 generation, and scheduled uploads via the YouTube Data API, with Postgres
 for state and Telegram notifications.
 
+**[mercadopublico-parser](https://github.com/stgomoyaa/mercadopublico-parser)** -
+TypeScript parser for Chile's public procurement API (Mercado Público /
+ChileCompra). Fetch, normalize, and classify tenders with typed DTOs,
+adjudication extraction, RUT validation and a CLI. Zero AI, zero SaaS
+dependencies. Extracted from a production ingestion engine.
+
 ## Stack
 
 TypeScript, Next.js, React, Python, PostgreSQL, Prisma, Drizzle, Tailwind,
