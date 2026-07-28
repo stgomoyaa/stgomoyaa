@@ -15,38 +15,74 @@ orchestration is the core skill, not a shortcut.
 
 ## Featured work
 
-**[iagame](https://github.com/stgomoyaa/iagame)** - Browser FPS built with
-Three.js and Next.js. AI bots with finite-state machines, perception,
-pathfinding and cover-seeking; a 40-weapon arsenal with per-weapon recoil
-and ballistics; a sensitivity converter that matches cm/360 across CS,
-Valorant, Apex, Overwatch, CoD and Quake; camo and progression systems.
-Backed by a Vitest suite covering bot AI, physics coherence, hitboxes and
-navigation grids.
+<a href="https://github.com/stgomoyaa/mercadopublico-parser">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-mercadopublico-parser-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-mercadopublico-parser-light.svg">
+    <img width="880" alt="mercadopublico-parser. Typed parser for Chile's public procurement API. Stack: TypeScript, CLI, Zero SaaS deps." src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-mercadopublico-parser-light.svg">
+  </picture>
+</a>
 
-**[decomp-studio](https://github.com/stgomoyaa/decomp-studio)** -
-Cross-platform toolkit for building Pokemon GBA hackroms on pret
-decompilation projects. A pnpm + TypeScript (strict) monorepo with one
-shared core engine driving a desktop UI, a CLI, and a planned MCP server,
-so a person, CI, or an AI agent all edit through the same validated
-services. Pre-alpha.
+Parser for Chile's public procurement API (Mercado Público / ChileCompra).
+Fetch, normalize, and classify tenders with typed DTOs, adjudication
+extraction, RUT validation and a CLI. Zero AI, zero SaaS dependencies.
+Extracted from a production ingestion engine.
 
-**[wikirace](https://github.com/stgomoyaa/wikirace)** - Full-stack WikiRace
-game: race between Wikipedia pages using only internal links. Next.js,
-TypeScript, Prisma and Postgres, with a server-authoritative race timer,
-anti-cheat path validation, and explicit XSS/SSRF/DoS hardening on the
+<a href="https://github.com/stgomoyaa/iagame">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-iagame-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-iagame-light.svg">
+    <img width="880" alt="iagame. Browser FPS with bot AI, ballistics and a cm/360 converter. Stack: Three.js, Next.js, Bot AI." src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-iagame-light.svg">
+  </picture>
+</a>
+
+AI bots with finite-state machines, perception, pathfinding and cover-seeking;
+a 40-weapon arsenal with per-weapon recoil and ballistics; a sensitivity
+converter that matches cm/360 across CS, Valorant, Apex, Overwatch, CoD and
+Quake; camo and progression systems. Backed by a Vitest suite covering bot AI,
+physics coherence, hitboxes and navigation grids.
+
+<a href="https://github.com/stgomoyaa/decomp-studio">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-decomp-studio-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-decomp-studio-light.svg">
+    <img width="880" alt="decomp-studio. Toolkit for Pokemon GBA hackroms on pret decomp projects. Stack: TypeScript, Monorepo, Pre-alpha." src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-decomp-studio-light.svg">
+  </picture>
+</a>
+
+A pnpm + TypeScript (strict) monorepo with one shared core engine driving a
+desktop UI, a CLI, and a planned MCP server, so a person, CI, or an AI agent
+all edit through the same validated services.
+
+<a href="https://github.com/stgomoyaa/wikirace">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-wikirace-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-wikirace-light.svg">
+    <img width="880" alt="wikirace. Race between Wikipedia pages using only internal links. Stack: Next.js, Postgres, Anti-cheat." src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-wikirace-light.svg">
+  </picture>
+</a>
+
+Next.js, TypeScript, Prisma and Postgres, with a server-authoritative race
+timer, anti-cheat path validation, and explicit XSS/SSRF/DoS hardening on the
 Wikipedia proxy.
 
-**[soundreel](https://github.com/stgomoyaa/soundreel)** - Python pipeline
-that automates a faceless ambient/lofi music YouTube channel end to end:
-audio processing, long-form video assembly, thumbnail and SEO-title
-generation, and scheduled uploads via the YouTube Data API, with Postgres
-for state and Telegram notifications.
+<a href="https://github.com/stgomoyaa/soundreel">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-soundreel-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-soundreel-light.svg">
+    <img width="880" alt="soundreel. Automates a faceless YouTube music channel end to end. Stack: Python, Postgres, YouTube API." src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-soundreel-light.svg">
+  </picture>
+</a>
 
-**[mercadopublico-parser](https://github.com/stgomoyaa/mercadopublico-parser)** -
-TypeScript parser for Chile's public procurement API (Mercado Público /
-ChileCompra). Fetch, normalize, and classify tenders with typed DTOs,
-adjudication extraction, RUT validation and a CLI. Zero AI, zero SaaS
-dependencies. Extracted from a production ingestion engine.
+Audio processing, long-form video assembly, thumbnail and SEO-title
+generation, and scheduled uploads via the YouTube Data API, with Postgres for
+state and Telegram notifications.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/divider-light.svg">
+  <img width="880" alt="" src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/divider-light.svg">
+</picture>
 
 ## Stack
 
