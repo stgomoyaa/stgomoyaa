@@ -1,17 +1,17 @@
-# Santiago
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/santiago-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/santiago-banner-light.svg">
+    <img width="880" alt="Santiago. Solo founder. I ship full-stack products by orchestrating AI agents. Santiago, Chile, building in public. TypeScript, Next.js, Python, Postgres, AI orchestration." src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/santiago-banner-light.svg">
+  </picture>
+</p>
 
-Solo founder based in Santiago, Chile. I design, build, and ship
-full-stack products by orchestrating AI coding agents, then run them as
-real businesses.
-
-## What I do
-
-I run production software on my own: a B2B SaaS, an ecommerce operation,
-and internal tooling backed by a custom MCP operations dashboard. My edge
-isn't typing code line by line. It's architecting the system, writing
-tight specs, orchestrating AI agents to implement them across parallel
-sessions, and reviewing and shipping the result. Agent orchestration is
-the core skill, not a shortcut.
+I run production software on my own: a B2B SaaS, an ecommerce operation, and
+internal tooling backed by a custom MCP operations dashboard. Real businesses,
+not side projects. My edge isn't typing code line by line. It's architecting
+the system, writing tight specs, orchestrating AI agents to implement them
+across parallel sessions, and reviewing and shipping the result. Agent
+orchestration is the core skill, not a shortcut.
 
 ## Featured work
 
@@ -50,9 +50,9 @@ dependencies. Extracted from a production ingestion engine.
 
 ## Stack
 
-TypeScript, Next.js, React, Python, PostgreSQL, Prisma, Drizzle, Tailwind,
-Vercel. Heavy on Claude and AI agent orchestration (MCP, multi-agent
-workflows).
+React and Tailwind on top of Next.js, Prisma and Drizzle over Postgres, Vercel
+for deploys. Day to day I work through Claude: MCP servers, custom subagents,
+parallel agent sessions.
 
 ## Reach me
 
