@@ -28,6 +28,20 @@ Fetch, normalize, and classify tenders with typed DTOs, adjudication
 extraction, RUT validation and a CLI. Zero AI, zero SaaS dependencies.
 Extracted from a production ingestion engine.
 
+<a href="https://github.com/stgomoyaa/firma">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-firma-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-firma-light.svg">
+    <img width="880" alt="firma. Anti-AI-slop design skill with a deterministic linter. Stack: Markdown, Node, Zero deps." src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-firma-light.svg">
+  </picture>
+</a>
+
+Design skill that stops coding agents from shipping AI-slop UI. The gates in
+this genre are self-reported, so firma ships a zero-dependency linter that
+checks its own hard rules deterministically, plus rotation memory that forbids
+reusing a page shape family across builds. 18 page shapes, 12 OKLCH themes with
+verified contrast, ~60 gates. Derived from hallmark and honest about it.
+
 <a href="https://github.com/stgomoyaa/iagame">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-iagame-dark.svg">
