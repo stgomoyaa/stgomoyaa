@@ -121,4 +121,4 @@ parallel agent sessions.
 
 ## Reach me
 
-[stgomoya.com](https://stgomoya.com) · [github.com/stgomoyaa](https://github.com/stgomoyaa)
+[stgomoya.com](https://stgomoya.com/en) · [github.com/stgomoyaa](https://github.com/stgomoyaa)
