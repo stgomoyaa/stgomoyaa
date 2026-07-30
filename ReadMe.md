@@ -39,8 +39,9 @@ Extracted from a production ingestion engine.
 Design skill that stops coding agents from shipping AI-slop UI. The gates in
 this genre are self-reported, so firma ships a zero-dependency linter that
 checks its own hard rules deterministically, plus rotation memory that forbids
-reusing a page shape family across builds. 18 page shapes, 12 OKLCH themes with
-verified contrast, ~60 gates. Derived from hallmark and honest about it.
+reusing a page shape family across builds. 19 page shapes in 11 families, 12
+OKLCH themes with verified contrast, 68 gates. Derived from hallmark and
+honest about it.
 
 <a href="https://github.com/stgomoyaa/encargo">
   <picture>
