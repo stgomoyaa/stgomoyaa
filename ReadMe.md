@@ -42,6 +42,20 @@ checks its own hard rules deterministically, plus rotation memory that forbids
 reusing a page shape family across builds. 18 page shapes, 12 OKLCH themes with
 verified contrast, ~60 gates. Derived from hallmark and honest about it.
 
+<a href="https://github.com/stgomoyaa/encargo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-encargo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-encargo-light.svg">
+    <img width="880" alt="encargo. Rewrite a raw prompt into an assignment an agent can finish. Stack: Markdown, Zero deps, 4 leak checks." src="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-encargo-light.svg">
+  </picture>
+</a>
+
+A skill that rewrites a raw prompt into an assignment an agent can actually
+finish. Six sections plus four checks the anatomy alone misses: a finish line
+only a human can close, autonomy with no ceiling, a roadmap disguised as a
+task, and a named verifier the environment cannot run. Derived from two real
+prompts and what they cost.
+
 <a href="https://github.com/stgomoyaa/iagame">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stgomoyaa/stgomoyaa/main/assets/project-card-iagame-dark.svg">
